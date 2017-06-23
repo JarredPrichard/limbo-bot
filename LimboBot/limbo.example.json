@@ -1,0 +1,15 @@
+{
+  "SettingGroups": [
+    {
+      "PullRequestQueryString": "is:open is:pr author:JarredPrichard",
+      "UsersWhitelist": [],
+      "GitHubUserName": "#Github username#",
+      "GitHubPersonalAccessToken": "Github personal access token",
+      "SlackBotApiToken": "Slack bot token",
+      "OpenIssuesComments": [
+        "There are open pull requests! Please review them as soon as possible...",
+      ],
+      "SlackChannel": "pullrequests"
+    }
+  ]
+}
